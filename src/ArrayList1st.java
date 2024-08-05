@@ -22,7 +22,7 @@ public class ArrayList1st {
 // WAP to ask user 10 no and store even and odd numbers in different arraylist
 //
 // create documentation report of different arraylist methods: It should include (10)
-//methode name
+//method name
 //syntax
 //explanation
 //example
